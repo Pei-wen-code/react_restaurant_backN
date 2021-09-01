@@ -71,7 +71,7 @@ This website is only for prectice and learning, not for any business use.
 # Installing
 1. Clone this repository
 ```javascript
-git clone https://github.com/Pei-wen-code/react_restaurant
+git clone https://github.com/Pei-wen-code/react_restaurant_backN
 ```
 
 2.Install packages
