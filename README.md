@@ -50,7 +50,7 @@ BASE_URL: https://agile-taiga-49676.herokuapp.com
   * delete/cancel/:id // Delete existing booking according to the id choosen
   * patch//update/:id // Update existing booking according to the id choosen
 
-# Technical skills
+# Technology used
 * Node.js // Backend environment
 * Express // Fast and minimalist framework for Node.js to create APIs
 * MySQL // Storing data including information about users, reservation and menu
